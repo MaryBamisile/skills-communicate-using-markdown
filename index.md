@@ -8,3 +8,6 @@ pwd
 cd /home/user
 cat file1
 ```
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
